@@ -15,7 +15,7 @@ function hamburgerToggle() {
 }
 
 function handleScroll() {
-  const specificScrollPosition = 100;
+  const specificScrollPosition = 50;
 
   const hamburgerMenu = document.querySelector('.hamburger-menu');
   const hamburgerIcon = hamburgerMenu.querySelector('.hamburger-icon');

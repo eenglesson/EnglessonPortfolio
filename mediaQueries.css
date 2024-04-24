@@ -97,7 +97,7 @@
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
-    gap: 5px;
+    gap: 8px;
   }
   .contact-info-container {
     margin: 0;
@@ -129,7 +129,7 @@
     font-size: 2rem;
   }
   .text-container {
-    text-align: justify;
+    text-align: center;
   }
   #about h2 {
     margin-bottom: 20px;
@@ -165,6 +165,7 @@
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
+    gap: 16px;
   }
   .contact-info-container {
     margin: 0;
@@ -196,7 +197,7 @@
     font-size: 2rem;
   }
   .text-container {
-    text-align: justify;
+    text-align: center;
   }
   main {
     margin-top: 20px;
